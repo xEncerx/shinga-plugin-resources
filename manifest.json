@@ -1,0 +1,8 @@
+{
+  "manifestVersion": 1,
+  "id": "com.example.source",
+  "name": "Example Source",
+  "version": "0.1.0",
+  "pluginApiVersion": 1,
+  "entry": "index.dart"
+}
